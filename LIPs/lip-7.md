@@ -96,6 +96,10 @@ contract MultiMetadata is ERC721, Ownable, IERC7160, IERC4906 {
 }
 ```
 
+#### Alternative option
+
+Proposed by @cesare "Early collectors could have NFTs pointing to the metadata URI at the time of collect. So if the author updates the content URI for a publication, only subsequent collects will use the new URI.". I think this would be the easiest option to add to the protocol.
+
 ## Rationale
 
 The current solution was motivated by having a solution that allows the content to be stored on a decentralised immutable storage while still being able to change the metadata of the publication and see the old versions.
