@@ -47,7 +47,7 @@ TBD
 ## Backwards Compatibility
 
 <!--
-  Since this is an addition to the protocol - I assume there would be no backwards compatibility issues at the protocol levels. But, this may not be true for apps with ingrained algorithm generation systems.
+For apps that service multiple protocols and uses Lens' graphs as subgraphs to a super-graph, exporting would not only be difficult, but also worthless in most cases, and imports might require workarounds depending on their input system for their super-graph.
 -->
 
 
