@@ -1,6 +1,6 @@
 ---
 title: <Introducing User Owned Algorithm Feed Space>
-description: <Feedspace is the commoditization of an algorithms feed>
+description: <Feed space is the commoditization of an algorithms feed>
 author: <@zkjew>
 discussions-to: <Lens>
 status: Draft
@@ -26,8 +26,8 @@ User-Owned Algorithms (UOAs) have the potential to be a decisive factor distingu
 ## Specification
 
 <!--
-The availability of feedspace should be determined by the owner of the User-Owned Algorithm (UOA). For instance, in a scenario involving a third-party-managed UOA system, the third party should have the ability to offer a percentage of a user's feed, specify the number of users it reaches, the frequency of queries, or the duration content remains visible in the user's UOA metadata.
-Consider this other example: an advertiser wishes to include ads in 1% of the feed space and offers to pay the user 5 USDC per year. These implementations of feedspace enable users to exert greater control and derive benefits from their attention on social media platforms.
+The availability of feed space should be determined by the owner of the User-Owned Algorithm (UOA). For instance, in a scenario involving a third-party-managed UOA system, the third party should have the ability to offer a percentage of a user's feed, specify the number of users it reaches, the frequency of queries, or the duration content remains visible in the user's UOA metadata.
+Consider this other example: an advertiser wishes to include ads in 1% of the feed space and offers to pay the user 5 USDC per year. These implementations of feed space enable users to exert greater control and derive benefits from their attention on social media platforms.
 
 -->
 
@@ -37,7 +37,6 @@ Consider this other example: an advertiser wishes to include ads in 1% of the fe
 The purpose of this LIP is to enhance users' ownership of their social media experience. User-Owned Algorithms (UOAs) empower users to control the content they see in their feeds. The Lens Algorithm Marketplace facilitates the trading of these UOAs in a competitive market, aiming to generate advantages for users. Additionally, the concept of feed space enables users and creators to gain financial or social benefits through the inclusion of curated content in users' feeds.
 -->
 
-TBD
 
 ## Backwards Compatibility
 
