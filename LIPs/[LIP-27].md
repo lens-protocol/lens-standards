@@ -33,17 +33,11 @@ requires: <LIP-26>
   Simply put, the Lens Algorithm Marketplace aims to commoditize User-Owned Algorithm (UOA) feeds, akin to how blockchains have commoditized cryptocurrencies like BTC and ETH.
 -->
 
-TBD
-
 ## Backwards Compatibility
 
 No backward compatibility issues found.
 
 ## Security Considerations
-
-<!--
-  All LIPs must contain a section that discusses the security implications/considerations relevant to the proposed change. Include information that might be important for security discussions, surfaces risks and can be used throughout the life cycle of the proposal. For example, include security-relevant design decisions, concerns, important discussions, implementation-specific guidance and pitfalls, an outline of threats and risks and how they are being addressed. LIP submissions missing the "Security Considerations" section will be rejected. An LIP cannot proceed to status "Final" without a Security Considerations discussion deemed sufficient by the reviewers.
--->
 
 Needs discussion.
 
