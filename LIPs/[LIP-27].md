@@ -2,7 +2,7 @@
 title: <Introducing the Lens Algorithm Marketplace>
 description: <A marketplace where algorithms can be rented and bought by Lens Users>
 author: <@zkjew (citing @ethwarrior “0x05-0x263d-DA-2d8c260b”)>
-discussions-to: <Lens>
+discussions-to: <(https://hey.xyz/posts/0xdd33-0x087e-DA-00b18a3a)>
 status: Draft
 type: <Protocol/Lens Open Algorithm Standard>
 category: <Contracts> 
