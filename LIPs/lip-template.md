@@ -1,77 +1,37 @@
 ---
-title: <The LIP title is a few words, not a complete sentence>
-description: <Description is one full (short) sentence>
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+title: <LIP-29: The Lens Algorithm Ecosystem>
+description: <A Cumulative Framework of LIPs 26, 27, and 28>
+author: <(@zkjew)>
 discussions-to: <URL>
 status: Draft
-type: <Protocol, Lens Metadata Standard, or Lens Open Algorithm Standard>
-category: <Contracts, API, SDK> # Only required for Protocol. Otherwise, remove this field.
-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
-requires: <LIP number(s)> # Only required when you reference an LIP which is also dependent on this to work. Otherwise, remove this field.
+type: <Protocol, Lens Metadata Standard, and Lens Open Algorithm Standard>
+category: <Contracts, API>
+created: <(2024-07-04)>
+requires: <LIP number(26,27, and 28)>
 ---
 
 ## Abstract
 
 <!--
-  The Abstract is a multi-sentence (short paragraph) technical summary. This should be a very terse and human-readable version of the specification section. Someone should be able to read only the abstract to get the gist of what this specification does.
-
-  TODO: Remove this comment before submitting
+  LIPs-26, 27, and 28 propose a plethora of new ways a user can retain ownership over their algorithm and feed. They propose a standard of User Owned Algorithms (UOA) that can be created, imported to apps, and exported on-chain by apps. They also recommend a Lens Algorithm Marketplace, which fosters the buying, renting, and selling of algorithms; on top of that, it also creates the transactability of “feed space” or a part of a user’s feed in their UOA’s metadata. To carry these ideas out LIP-29 lays out a framework detailing roles of entities in this ecosystem, which consist of users, agents, apps, and 3rd party algorithm generators.
 -->
 
 ## Motivation
 
 <!--
-  This section is optional.
-
-  The motivation section should include a description of any nontrivial problems the LIP solves. It should not describe how the LIP solves those problems, unless it is not immediately obvious. It should not describe why the LIP should be made into a standard, unless it is not immediately obvious.
-
-  With a few exceptions, external links are not allowed. If you feel that a particular resource would demonstrate a compelling case for your LIP, then save it as a printer-friendly PDF, put it in the assets folder, and link to that copy.
-
-  TODO: Remove this comment before submitting
+  This LIP aims to create a marketplace for User-Owned Algorithm Tokens (UOAs) in order to expand their distribution. In this marketplace, users can purchase or rent UOAs, earn from their own UOAs, or utilize UOAs curated by third parties. By introducing a free-market approach to content curation, users can potentially benefit from algorithms that currently exploit them in today's social media landscape.
 -->
 
-## Specification
+## Specification/Rationale
 
 <!--
-  The Specification section should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Lens platforms
-  TODO: Remove this comment before submitting
+    The main promise of this LIP and its components is to provide the proper incentives for the cheapest and best algorithms for users, as well as decreasing the switching costs between apps. This is done by the separation of power in the insertion of the metadata to the users’ UOA. In the system, the user provides basic instructions, mostly in the form of feedback to an agent. The agent is paid in some form (ex. Collect fee or time spent on app from apps, or payment from third parties) to fill the user’s feed with desirable content. The agent then brokers feed space in the UOA on the user’s behalf to provide the best content from 3rd parties and maximize revenue for the user. In one scenario, the agent might sell a user’s premium content to 3rd parties. In another, it might hold a bidding contest between two competing 3rd parties. There are a lot of plausible applications of this framework creating a whole economy, as well as more avenues of ownership for users and creators. It allows creators to target likely new followers by allowing agents to purchase feed space precisely. And, it reduces the overall opportunity cost that every web2 user has of being monetized by an entity other than themselves.
 -->
-
-## Rationale
-
-<!--
-  The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages.
-
-  The current placeholder is acceptable for a draft.
-
-  TODO: Remove this comment before submitting
--->
-
-TBD
-
-## Backwards Compatibility
-
-<!--
-
-  This section is optional.
-
-  All LIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The LIP must explain how the author proposes to deal with these incompatibilities. LIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
-
-  The current placeholder is acceptable for a draft.
-
-  TODO: Remove this comment before submitting
--->
-
-No backward compatibility issues found.
 
 ## Security Considerations
 
 <!--
   All LIPs must contain a section that discusses the security implications/considerations relevant to the proposed change. Include information that might be important for security discussions, surfaces risks and can be used throughout the life cycle of the proposal. For example, include security-relevant design decisions, concerns, important discussions, implementation-specific guidance and pitfalls, an outline of threats and risks and how they are being addressed. LIP submissions missing the "Security Considerations" section will be rejected. An LIP cannot proceed to status "Final" without a Security Considerations discussion deemed sufficient by the reviewers.
-
-  The current placeholder is acceptable for a draft.
-
-  TODO: Remove this comment before submitting
 -->
 
 Needs discussion.
