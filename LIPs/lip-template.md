@@ -12,7 +12,7 @@ requires: <LIP-26, LIP-27>
 ## Abstract
 
 <!--
-Every User-Owned Algorithm (UOA) will generate specific content for a user based on the specifications outlined in its metadata. This means that the content viewed by the user is determined by what is defined in the UOA's metadata. The Lens Algorithm Marketplace enables the trading of algorithms among various entities. However, it also introduces an opportunity to commoditize the content within the UOA itself, known as "feedspace". This refers to the ability for users to profit from the inclusion of metadata in their UOAs.
+Every User-Owned Algorithm (UOA) will generate specific content for a user based on the specifications outlined in its metadata. This means that the content viewed by the user is determined by what is defined in the UOA's metadata. The Lens Algorithm Marketplace enables the trading of inclusion of posts in a users feed. However, it also introduces an opportunity to commoditize the content within the UOA itself, known as "feedspace". This refers to the ability for users to profit from the inclusion of metadata in their UOAs.
 
 For instance, an emerging creator could benefit by paying for third-party algorithms to incorporate their content into their UOAs for a specified number of posts or a certain duration. This arrangement could mutually benefit both parties involved.
 -->
