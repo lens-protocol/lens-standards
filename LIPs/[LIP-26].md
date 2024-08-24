@@ -13,7 +13,7 @@ requires: <N/A>
 ## Abstract
 
 <!--
-The purpose of this LIP is to introduce the concept of user ownership over their feed algorithm through a User Owned Feed Token (UOF). This token, attached to a user's profile, would be used to generate the user's preferred feed on any front end integrated with Lens Protocol.
+The purpose of this LIP is to introduce the concept of user ownership over their feed algorithm through a User Owned Feed Token (UOF). This token, attached to a user's profile, would be used to host the user's preferred feed on any front end integrated with Lens Protocol.
 -->
 
 ## Motivation
