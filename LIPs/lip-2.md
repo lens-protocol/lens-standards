@@ -13,7 +13,7 @@ Metadata was growing and growing, and with that, we had a flat structure which w
 
 ## Motivation
 
-We want Lens to be a community ran project with standards shaped by everyone, with the way metadata was set out before this was hard to co-write and also with no JSON schema very hard to validate. It should be easy to know the standards but also grow them without affecting other standards.
+We want Lens to be a community run project with standards shaped by everyone, with the way metadata was set out before this was hard to co-write and also with no JSON schema very hard to validate. It should be easy to know the standards but also grow them without affecting other standards.
 
 ## Specification
 

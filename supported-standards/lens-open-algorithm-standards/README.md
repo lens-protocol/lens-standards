@@ -1,6 +1,6 @@
 # Lens Open Algorithm Standard
 
-The rapid growth and development of Lens algorithmic systems, including ML, have underscored the importance of establishing open standards that promote consistency, interoperability, and collaboration. By setting open standards for naming algorithm-specific conventions, entities, service requirements, metadata, and data output, as outlined above, the Lens community can streamline the process of integrating various Lens algorithms, algorithm models and services into a cohesive ecosystem. This uniformity will enable developers and researchers to work more effectively together, reducing the time and effort spent on understanding and adapting to different proprietary systems. Furthermore, these open standards facilitate the sharing of knowledge and expertise, fostering innovation and encouraging the development of best practices in the Lens data science community. By adopting and adhering to these open standards, the community can accelerate progress in Lens data science to unlock its full potential to benefit from various industries and applications across the ecosystem.
+The rapid growth and development of Lens algorithmic systems, including ML, have underscored the importance of establishing open standards that promote consistency, interoperability, and collaboration. By setting open standards for naming algorithm-specific conventions, entities, service requirements, metadata, and data output, as outlined above, the Lens community can streamline the process of integrating various Lens algorithms, algorithmic models and services into a cohesive ecosystem. This uniformity will enable developers and researchers to work more effectively together, reducing the time and effort spent on understanding and adapting to different proprietary systems. Furthermore, these open standards facilitate the sharing of knowledge and expertise, fostering innovation and encouraging the development of best practices in the Lens data science community. By adopting and adhering to these open standards, the community can accelerate progress in Lens data science to unlock its full potential to benefit various industries and applications across the ecosystem.
 
 ## Specification
 
@@ -27,13 +27,13 @@ The personal/global flag differentiates between machine learning results that ar
 
 #### Model Output Type
 
-The modal output type refers to the primary output of a specific model. For instance, in the case of a profile scoring model, the output type would be a score. This output type is defined within the model standard's criteria and serves as a guideline for anyone developing or implementing this particular model.
+The model output type refers to the primary output of a specific model. For instance, in the case of a profile scoring model, the output type would be a score. This output type is defined within the model standard's criteria and serves as a guideline for anyone developing or implementing this particular model.
 
 ### Model Data Output
 
 Each approved Lens Open Algorithm Standard model must have a clearly defined service data output, specifying the data returned by the service. This standardization is crucial for ensuring ease of use and consistent output interfaces across implementations. The advantage of this approach is that it does not impose constraints on the programming language, the model's construction, the data it utilizes, or the computation methods employed. Instead, it focuses solely on ensuring that the output conforms to the correct structure.
 
-Additionally, the data output should utilize a tuple-style format when possible to minimize wasted space caused by repeated object names. It is also required that you write the spec using json schema to make it easy for all to read.
+Additionally, the data output should utilize a tuple-style format, when possible, to minimize wasted space caused by repeated object names. It is also required that you write the spec using json schema to make it easy for all to read.
 
 ### Model Service Requirements and Constraints
 
