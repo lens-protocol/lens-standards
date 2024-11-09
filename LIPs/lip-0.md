@@ -9,7 +9,7 @@ created: 2023-05-24
 
 ## Motivation
 
-We want Lens to be a community ran project with standards shaped by everyone, as more builders use Lens we want them to have a voice and be able to promote ideas easily and in a way which would get eyes on it. LIPs is a great way to do this and we should start using it. Inspiration from [EIP](https://eips.ethereum.org/) was taken.
+We want Lens to be a community run project with standards shaped by everyone, as more builders use Lens we want them to have a voice and be able to promote ideas easily and in a way which would get eyes on it. LIPs is a great way to do this and we should start using it. Inspiration from [EIP](https://eips.ethereum.org/) was taken.
 
 ## Specification
 
