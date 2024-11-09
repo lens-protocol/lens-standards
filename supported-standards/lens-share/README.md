@@ -67,7 +67,7 @@ An example:
 }
 ```
 
-The `:handle` and `:id` tokens represent placeholder for where the app expect Profile handles and Publication Ids. The specification could be extended to support Profile Ids if need to.
+The `:handle` and `:id` tokens represent placeholders for where the app expects Profile handles and Publication Ids. The specification could be extended to support Profile Ids if need to.
 
 App Manifest can be added by submitting a PRs to the registry repository and there should be a process in place to validate and approve new apps. See proposed [schema](./app-manifest-schema.json).
 
