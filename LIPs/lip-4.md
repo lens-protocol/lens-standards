@@ -57,7 +57,7 @@ The user can enable the Profile Guardian back by executing `enableTokenGuardian`
 
 ### 3. Profile Guardian does not apply to non-EOA addresses
 
-Non-EOA addresses are not affected by this safety layer in order to avoid issues with smart contracts (e.g. NFT protocols or smart wallets) that expect the default plain ERC-721 behaviour. Non-EOA adresses have a higher safety assumption as significant amount of the non-EOAs are multisigs, DAOs or protocols that have a higher threshold of observation from the users and are assumed to remain less affected.
+Non-EOA addresses are not affected by this safety layer in order to avoid issues with smart contracts (e.g. NFT protocols or smart wallets) that expect the default plain ERC-721 behaviour. Non-EOA addresses have a higher safety assumption as significant amount of the non-EOAs are multisigs, DAOs or protocols that have a higher threshold of observation from the users and are assumed to remain less affected.
 
 ### 4. Lens ecosystem support
 
