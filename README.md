@@ -17,8 +17,8 @@ We have different types of proposals which currently are:
 - Lens Metadata Standard
 - Lens Open Algorithm Standard
 
-All of these can go through an LIP process. Lens Open Algorithm Standards are the only ones that are not required to go through the LIP process as has its own flow. That said if you want to improve that standards an LIP can be opened for it.
+All of these can go through an LIP process. Lens Open Algorithm Standards are the only ones that are not required to go through the LIP process as has its own flow. That said if you want to improve the standards an LIP can be opened for it.
 
 ## Supported standards
 
-You can see all the supported standards which that are supported and shaped by LIPs [here](./supported-standards/README.md).
+You can see all the supported standards that are supported and shaped by LIPs [here](./supported-standards/README.md).

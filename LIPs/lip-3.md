@@ -57,7 +57,7 @@ An example:
 }
 ```
 
-The `:handle` and `:id` tokens represent placeholder for where the app expect Profile handles and Publication Ids. The specification could be extended to support Profile Ids if need to.
+The `:handle` and `:id` tokens represent placeholder for where the app expects Profile handles and Publication Ids. The specification could be extended to support Profile Ids if need to.
 
 The app manifest should be submitted as PRs to the registry repository and there should be a process in place to validate and approve new apps. See proposed [schema](../supported-standards/lens-share/app-manifest-schema.json).
 
